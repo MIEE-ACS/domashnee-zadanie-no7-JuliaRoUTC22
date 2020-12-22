@@ -103,22 +103,29 @@
     <AppDesigner Include="Properties\" />
   </ItemGroup>
   <ItemGroup>
-    <Resource Include="Resources\apple.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <Resource Include="Resources\body.png" />
-  </ItemGroup>
-  <ItemGroup>
     <Resource Include="Resources\fruit.png" />
   </ItemGroup>
   <ItemGroup>
-    <Resource Include="Resources\head.png" />
-  </ItemGroup>
-  <ItemGroup>
-    <Resource Include="Resources\snake.png" />
-  </ItemGroup>
-  <ItemGroup>
     <Resource Include="Resources\logo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Resources\apple1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="background.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Resources\field.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Resources\rabbit.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Resources\body_snake.png" />
+    <Resource Include="Resources\head_snake.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Resources\apple3.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
